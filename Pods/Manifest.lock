@@ -1,0 +1,21 @@
+PODS:
+  - G3SDK (0.0.8):
+    - G3SDK/Core (= 0.0.8)
+    - G3SDK/UI (= 0.0.8)
+  - G3SDK/Core (0.0.8)
+  - G3SDK/UI (0.0.8):
+    - G3SDK/Core
+
+DEPENDENCIES:
+  - G3SDK
+
+SPEC REPOS:
+  https://github.com/monsterpit/PodSpec.git:
+    - G3SDK
+
+SPEC CHECKSUMS:
+  G3SDK: 5597b4ece4e9a46e0efa31d11227af9851f9f5e9
+
+PODFILE CHECKSUM: a0c1d4dc21d08a4b748baae46c393190c31c1956
+
+COCOAPODS: 1.11.2

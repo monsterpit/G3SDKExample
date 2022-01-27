@@ -1,0 +1,6 @@
+framework module Pods_G3SDKExample {
+  umbrella header "Pods-G3SDKExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
