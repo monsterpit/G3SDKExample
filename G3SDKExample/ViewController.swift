@@ -19,3 +19,10 @@ class ViewController: UIViewController {
 
 }
 
+//1. Create a frameWork project with testCase
+//2. Create New target with application
+//3. Initialize the GitHub repo
+//4. pod spec create G3SDK
+//5.  open G3SDK.podspec -a Xcode
+//6.  pod lib lint --no-clean --allow-warnings
+//https://medium.com/@jeantimex/create-your-own-cocoapods-library-da589d5cd270
